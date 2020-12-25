@@ -5,7 +5,7 @@ title: "Episode 1: Everybody struggles"
 
 <p>It is the third week of the outreachy and the topic for the blog is everybody struggles.</p>
 
-<p>Developers deal with technical problems all day long and you learn very fast that not only do you need to have different problem-solving skills but that it’s also just as important to know when you need to ask for help </p>
+<p>Developers deal with technical problems all day long and you learn very fast that not only do you need to have different problem-solving skills but that it’s also just as important to know when you need to ask for help.</p>
 
 > “ Don't be afraid to ask questions. Don't be afraid to ask for help when you need it. I do that every day. Asking for help isn't a sign of weakness, it's a sign of strength. It shows you have the courage to admit when you don't know something, and to learn something new.” ~ Barack Obama
 
