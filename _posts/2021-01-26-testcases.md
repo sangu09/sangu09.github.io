@@ -161,4 +161,4 @@ References:
 
 [1] Hyperfine: [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
 
-[2] There are two brances, 'ort' and 'remerge-diff' in Elijah's clone for git(https://github.com/newren/git). We can use any of the branches. The former only makes the 'ort' strategy available as an alternative but does not make it the default.  The latter makes it the default, and has a --remerge-diff option to `git log` and also makes `git log -p` imply `git log -p --remerge-diff`. (As said by Elijah)
+[2] There are two brances, 'ort' and 'remerge-diff' in Elijah's clone for Git(https://github.com/newren/git). We can use any of the branches. The former only makes the 'ort' strategy available as an alternative but does not make it the default.  The latter makes it the default, and has a --remerge-diff option to `git log` and also makes `git log -p` imply `git log -p --remerge-diff`. (As said by Elijah)
