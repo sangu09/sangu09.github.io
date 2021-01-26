@@ -154,7 +154,7 @@ Range (min … max): 5.298 s … 5.301 s
 
 After running these testcases I am trying to extrapolate them on a smaller repository like Git and to do that I am looking for test case that can show performance improvement(Or maybe deterioration) so that I can add that performance test in the already existing perf tests in Git repo. For that I have to look for a range of commits that can cleanly rebase onto an older base and am currently looking into it.
 
-I would like to thank Elijah for constantly helping me and giving me all the explanations required on his work. I would also like to thank my mentors, Christian Couder and Kaartic Sivaraam ffor supporting me.
+I would like to thank Elijah for constantly helping me and giving me all the explanations required on his work. I would also like to thank my mentors, Christian Couder and Kaartic Sivaraam for supporting me.
 
 
 References:
